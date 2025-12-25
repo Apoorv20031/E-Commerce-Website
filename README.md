@@ -40,11 +40,11 @@ Responsive UI for web and mobile
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic3.png.jpg)
 # Dashboard
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic4.png.jpg)
-#  Product Mens 
+#  Products Mens Section
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic5.png.jpg.png)
-#  Product Womens 
+#  Products Womens Section
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic6.jpg)
-#  Product Electronics 
+#  Products Electronics Section
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic7.jpg)
 #  Contact Page 
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic8.png)
