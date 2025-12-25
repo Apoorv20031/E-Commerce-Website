@@ -51,6 +51,7 @@ Responsive UI for web and mobile
 # Cart & Payment Page
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f1aaceaeced4701471f05a17c78f1d646c71c7a8/pic9.jpg)
 ![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f1aaceaeced4701471f05a17c78f1d646c71c7a8/pic10.png)
+
 📸 Any images used during development were taken from Google and are used only for academic purposes.
 
 📌 Installation & Setup
