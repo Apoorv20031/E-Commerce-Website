@@ -33,53 +33,41 @@ Responsive UI for web and mobile
 
 🖼️ Screenshots
 # Homepage
-![image alt]()
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic1.png.jpg)
 # Registration Page
-![image alt]()
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic2.png.jpg)
 # Login Page
-![image alt]()
-# Product Dashboard
-![image alt]()
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic3.png.jpg)
+# Dashboard
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic4.png.jpg)
+#  Product Mens 
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic5.png.jpg.png)
+#  Product Womens 
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic6.jpg)
+#  Product Electronics 
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic7.jpg)
+#  Contact Page 
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f221bd11982435397554773c4d3c3c1992f78a6a/pic8.png)
 # Cart & Payment Page
-![image alt]()
-
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f1aaceaeced4701471f05a17c78f1d646c71c7a8/pic9.jpg)
+![image alt](https://github.com/Apoorv20031/E-Commerce-Website/blob/f1aaceaeced4701471f05a17c78f1d646c71c7a8/pic10.png)
 📸 Any images used during development were taken from Google and are used only for academic purposes.
 
 📌 Installation & Setup
 1️⃣ Clone the Repository
 git clone https://github.com/your-username/e-commerce-website.git
-
 2️⃣ Move Project to Server Folder
-
 XAMPP → htdocs
-
 WAMP → www
-
 3️⃣ Database Setup
-
 Create your own database in MySQL / SQLite
-
 Configure database connection in PHP files
-
 4️⃣ Run the Project
 http://localhost/e-commerce-website
-
-📄 Project Status
-
+📄 Project Statu
 ✔️ Completed (Academic Project)
 
 📜 License
 
 This project is developed for academic and educational purposes only.
 
-If you want, I can:
-
-Make it even shorter
-
-Add Authors section
-
-Add Database note
-
-Convert this into professional open-source style
-
-Just tell me 👍
