@@ -8,62 +8,40 @@ This project was developed as part of the M.Sc. Computer Application (FY) academ
 📌 Project Overview
 
 The website provides a simple and user-friendly platform where users can:
-
 Browse products by category
-
 Register and log in
-
 Add products to cart
-
 Proceed with checkout and payment
-
 Contact the admin
-
 The system focuses on clean UI, basic e-commerce flow, and easy navigation.
 
 🚀 Features
-
 User Registration & Login
-
 Product listing by categories
-
-Men
-
-Women
-
-Electronics
-
-Shopping Cart
-
-Payment Page
-
-Admin Dashboard
-
-Contact Us Page
-
+Men,Women,Electronics,Shopping Cart,Payment Page,Contact Us Page
 Responsive UI for web and mobile
 
 🧰 Technologies Used
-Technology	Purpose
-HTML, CSS, JavaScript	Frontend
-PHP	Backend
-MySQL / SQLite	Database
-Bootstrap	UI Styling
-Chart.js	Charts & Reports
-GitHub	Version Control
+| Technology            | Purpose          |
+| --------------------- | ---------------- |
+| HTML, CSS, JavaScript | Frontend         |
+| PHP                   | Backend          |
+| MySQL / SQLite        | Database         |
+| Bootstrap             | UI Styling       |
+| Chart.js              | Charts & Reports |
+| GitHub                | Version Control  |
+
 🖼️ Screenshots
-
-Screenshots are not included in this repository.
-
-Homepage
-
-Registration Page
-
-Login Page
-
-Product Dashboard
-
-Cart & Payment Page
+# Homepage
+![image alt]()
+# Registration Page
+![image alt]()
+# Login Page
+![image alt]()
+# Product Dashboard
+![image alt]()
+# Cart & Payment Page
+![image alt]()
 
 📸 Any images used during development were taken from Google and are used only for academic purposes.
 
